@@ -1,0 +1,47 @@
+{
+  "description": "Mi primer NFT creado con mi propio Smart Contract",
+  "external_url": "https://github.com/eppr/nft-721",
+  "imagen": "https://ipfs.io/ipfs/QmR5sy4f3yv2mRCmijmB3ETAj7oJnh1vmJybGY1Cr3satV?filename=choclo777_simple_logo_with_letters_Vottum_2__company_logo__vect_9711eb7d-2c94-4bcd-89ea-542f57d104fb.jpg",
+  "nombre": "EPPR POAP",
+  "atributos": [
+    {
+      "trait_type": "Base",
+      "value": "Estrella de mar"
+    },
+    {
+      "trait_type": "Ojos",
+      "valor": "Grande"
+    },
+    {
+      "trait_type": "Boca",
+      "valor": "Sorprendido"
+    },
+    {
+      "trait_type": "Nivel",
+      "valor": 5
+    },
+    {
+      "trait_type": "Resistencia",
+      "valor": 1.4
+    },
+    {
+      "trait_type": "Personalidad",
+      "valor": "Triste"
+    },
+    {
+      "display_type": "número_impulso",
+      "trait_type": "Poder acuático",
+      "valor": 40
+    },
+    {
+      "display_type": "aumento_porcentaje",
+      "trait_type": "Aumento de resistencia",
+      "valor": 10
+    },
+    {
+      "display_type": "número",
+      "trait_type": "Generación",
+      "valor": 2
+    }
+  ]
+}
